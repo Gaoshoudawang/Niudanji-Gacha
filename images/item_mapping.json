@@ -1,0 +1,137 @@
+{
+  "QBZ03-王者蔷薇": {
+    "quality": "gold",
+    "image": "images/items/gold/QBZ03-王者蔷薇.png",
+    "showcase": "images/showcase/gold/QBZ03-王者蔷薇.png"
+  },
+  "柯尔特-王者蔷薇": {
+    "quality": "gold",
+    "image": "images/items/gold/柯尔特-王者蔷薇.png",
+    "showcase": "images/showcase/gold/柯尔特-王者蔷薇.png"
+  },
+  "王者蔷薇扇": {
+    "quality": "gold",
+    "image": "images/items/gold/王者蔷薇扇.png",
+    "showcase": "images/showcase/gold/王者蔷薇扇.png"
+  },
+  "手雷-王者蔷薇": {
+    "quality": "gold",
+    "image": "images/items/gold/手雷-王者蔷薇.png",
+    "showcase": "images/showcase/gold/手雷-王者蔷薇.png"
+  },
+  "燃烧弹-王者蔷薇": {
+    "quality": "gold",
+    "image": "images/items/gold/燃烧弹-王者蔷薇.png",
+    "showcase": "images/showcase/gold/燃烧弹-王者蔷薇.png"
+  },
+  "QBZ03-王者蔷薇-离恨烟": {
+    "quality": "gold",
+    "image": "images/items/gold/QBZ03-王者蔷薇-离恨烟.png",
+    "showcase": "images/showcase/gold/QBZ03-王者蔷薇-离恨烟.png"
+  },
+  "王者之心-离恨烟": {
+    "quality": "gold",
+    "image": "images/items/gold/王者之心-离恨烟.png",
+    "showcase": "images/showcase/gold/王者之心-离恨烟.png"
+  },
+  "柯尔特-王者蔷薇-离恨烟": {
+    "quality": "gold",
+    "image": "images/items/gold/柯尔特-王者蔷薇-离恨烟.png",
+    "showcase": "images/showcase/gold/柯尔特-王者蔷薇-离恨烟.png"
+  },
+  "王者蔷薇扇-离恨烟": {
+    "quality": "gold",
+    "image": "images/items/gold/王者蔷薇扇-离恨烟.png",
+    "showcase": "images/showcase/gold/王者蔷薇扇-离恨烟.png"
+  },
+  "手雷-王者蔷薇-离恨烟": {
+    "quality": "gold",
+    "image": "images/items/gold/手雷-王者蔷薇-离恨烟.png",
+    "showcase": "images/showcase/gold/手雷-王者蔷薇-离恨烟.png"
+  },
+  "闪光弹-王者蔷薇-离恨烟": {
+    "quality": "gold",
+    "image": "images/items/gold/闪光弹-王者蔷薇-离恨烟.png",
+    "showcase": "images/showcase/gold/闪光弹-王者蔷薇-离恨烟.png"
+  },
+  "烟雾弹-王者蔷薇-离恨烟": {
+    "quality": "gold",
+    "image": "images/items/gold/烟雾弹-王者蔷薇-离恨烟.png",
+    "showcase": "images/showcase/gold/烟雾弹-王者蔷薇-离恨烟.png"
+  },
+  "燃烧弹-王者蔷薇-离恨烟": {
+    "quality": "gold",
+    "image": "images/items/gold/燃烧弹-王者蔷薇-离恨烟.png",
+    "showcase": "images/showcase/gold/燃烧弹-王者蔷薇-离恨烟.png"
+  },
+  "QBZ03-王者蔷薇-烟雨之触": {
+    "quality": "gold",
+    "image": "images/items/gold/QBZ03-王者蔷薇-烟雨之触.png",
+    "showcase": null
+  },
+  "王者之心-离恨烟-烟雨之触": {
+    "quality": "gold",
+    "image": "images/items/gold/王者之心-离恨烟-烟雨之触.png",
+    "showcase": null
+  },
+  "QBZ03-王者蔷薇-烟雨之殇": {
+    "quality": "gold",
+    "image": "images/items/gold/QBZ03-王者蔷薇-烟雨之殇.png",
+    "showcase": null
+  },
+  "王者之心-离恨烟-烟雨之殇": {
+    "quality": "gold",
+    "image": "images/items/gold/王者之心-离恨烟-烟雨之殇.png",
+    "showcase": null
+  },
+  "QBZ03-王者蔷薇-烟雨之印": {
+    "quality": "gold",
+    "image": "images/items/gold/QBZ03-王者蔷薇-烟雨之印.png",
+    "showcase": null
+  },
+  "王者之心-离恨烟-烟雨之印": {
+    "quality": "gold",
+    "image": "images/items/gold/王者之心-离恨烟-烟雨之印.png",
+    "showcase": null
+  },
+  "抛物线-烟雨之梦": {
+    "quality": "gold",
+    "image": "images/items/gold/抛物线-烟雨之梦.png",
+    "showcase": null
+  },
+  "离恨烟挂饰": {
+    "quality": "gold",
+    "image": "images/items/gold/离恨烟挂饰.png",
+    "showcase": null
+  },
+  "印花|双鲤戏水": {
+    "quality": "gold",
+    "image": "images/items/gold/印花|双鲤戏水.png",
+    "showcase": null
+  },
+  "双鲤戏水喷漆": {
+    "quality": "gold",
+    "image": "images/items/gold/双鲤戏水喷漆.png",
+    "showcase": null
+  },
+  "离恨烟兑换币×15": {
+    "quality": "purple",
+    "image": "images/items/purple/离恨烟兑换币.png",
+    "showcase": null
+  },
+  "离恨烟兑换币×8": {
+    "quality": "purple",
+    "image": "images/items/purple/离恨烟兑换币.png",
+    "showcase": null
+  },
+  "离恨烟兑换币×5": {
+    "quality": "purple",
+    "image": "images/items/purple/离恨烟兑换币.png",
+    "showcase": null
+  },
+  "离恨烟兑换币×3": {
+    "quality": "purple",
+    "image": "images/items/purple/离恨烟兑换币.png",
+    "showcase": null
+  }
+}
